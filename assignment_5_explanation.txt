@@ -1,0 +1,3 @@
+For this assignment, i implemented 2 new vants. The first one just turns in 45 degree increments instead of 90. The second type resets a counter when it hits a pheremone. It will then tick this count down from 10, and then turn.
+
+I noticed quite a few patterns when playing around with the vants. The vants often create a spiral-pattern along straight lines, a bit like a DNA double helix. They will also create wave patterns along seperated lines.

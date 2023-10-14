@@ -1,0 +1,33 @@
+[package]
+name = "nbody"
+author = "Arthur Ames"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bytemuck = "1.14.0"
+cgmath = "0.18.0"
+chrono = "0.4.31"
+console_error_panic_hook = "0.1.7"
+egui = "0.22.0"
+egui-winit = { version = "0.23.0", default-features = false }
+egui_wgpu_backend = { version = "0.25.0", features = [ "web" ] }
+egui_winit_platform = { version = "0.19.0", features = [ "webbrowser" ] }
+getrandom = { version = "0.2.10", features = [ "js" ] }
+glm = "0.2.3"
+js-sys = "0.3.64"
+pollster = "0.3.0"
+rand = { version = "0.8.5" }
+softbuffer = "0.3.1"
+wasm-bindgen = "0.2.87"
+wasm-bindgen-futures = "0.4.37"
+wgpu = { version = "0.17.1", features = [ "trace" ] }
+
+[dependencies.web-sys]
+version = "0.3.64"
+features = [ "console" ]
+
+[dependencies.winit]
+version = "0.28.7"

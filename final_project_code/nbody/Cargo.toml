@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "nbody",
+    "run-wasm"
+]
