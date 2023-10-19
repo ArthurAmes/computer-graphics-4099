@@ -27,7 +27,7 @@ Repo for links &amp; Wgsl code
 [Code](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/assignment_5_code)
 
 ## Final Project
-[Demo Videos](https://youtube.com/playlist/PLfCRdAhfsaRz4MkEuiZX0Y6DscEzXxWmf)
+[Demo Videos](https://www.youtube.com/playlist?list=PLfCRdAhfsaRz4MkEuiZX0Y6DscEzXxWmf)
 [Summary](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/final_project_code/writeup.txt)
 [Code](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/final_project_code/nbody)
 
