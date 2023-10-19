@@ -7,22 +7,22 @@ Repo for links &amp; Wgsl code
 [Code](https://github.com/ArthurAmes/computer-graphics-4099/blob/main/assignment_1_code.wgsl)
 
 ## Assignment 2
-[Demo](https://turquoise-pointed-tip.glitch.me/)
+[Demo](https://arthurames.github.io/computer-graphics-4099/assignment_2_code/)
 [Summary](https://github.com/ArthurAmes/computer-graphics-4099/blob/main/assignment_2_explanation.txt)
 [Code](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/assignment_2_code)
 
 ## Assignment 3
-[Demo](https://turquoise-pointed-tip.glitch.me/)
+[Demo](https://arthurames.github.io/computer-graphics-4099/assignment_3_code/)
 [Summary](https://github.com/ArthurAmes/computer-graphics-4099/blob/main/assignment_3_explanation.txt)
 [Code](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/assignment_3_code)
 
 ## Assignment 4
-[Demo](https://turquoise-pointed-tip.glitch.me/)
+[Demo](https://arthurames.github.io/computer-graphics-4099/assignment_4_code/)
 [Summary](https://github.com/ArthurAmes/computer-graphics-4099/blob/main/assignment_4_explanation.txt)
 [Code](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/assignment_4_code)
 
 ## Assignment 5
-[Demo](https://turquoise-pointed-tip.glitch.me/)
+[Demo](https://arthurames.github.io/computer-graphics-4099/assignment_5_code/)
 [Summary](https://github.com/ArthurAmes/computer-graphics-4099/blob/main/assignment_5_explanation.txt)
 [Code](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/assignment_5_code)
 
