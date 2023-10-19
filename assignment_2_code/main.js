@@ -1,6 +1,6 @@
-import { default as seagulls } from 'seagulls.js'
-import { default as Video    } from 'video.js'
-import { default as Mouse    } from 'mouse.js'
+import { default as seagulls } from './seagulls.js'
+import { default as Video    } from './video.js'
+import { default as Mouse    } from './mouse.js'
 import { Pane } from 'https://cdn.jsdelivr.net/npm/tweakpane@4.0.1/dist/tweakpane.min.js';
 
 const sg     = await seagulls.init(),
