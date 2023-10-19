@@ -28,6 +28,6 @@ Repo for links &amp; Wgsl code
 
 ## Final Project
 [Demo Videos](https://github.com/ArthurAmes/computer-graphics-4099/blob/final_project_code/)
-[Summary](https://github.com/ArthurAmes/computer-graphics-4099/blob/final_project_code/writeup.txt)
-[Code](https://github.com/ArthurAmes/computer-graphics-4099/blob/final_project_code/nbody/)
+[Summary](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/final_project_code/writeup.txt)
+[Code](https://github.com/ArthurAmes/computer-graphics-4099/tree/main/final_project_code/nbody)
 
